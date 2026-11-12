@@ -1,0 +1,565 @@
+data,local/atividade,código,tipo de recipiente,qtd,focos eliminados
+2026-03-02,rotina eldorado / guaporé,0.0,prato/pingadeira,2.0,30.0
+2026-03-02,rotina eldorado / guaporé,7.0,vaso de planta na água,1.0,0.0
+2026-03-02,rotina eldorado / guaporé,0.0,consumo animal,12.0,0.0
+2026-03-02,rotina eldorado / guaporé,5.0,outros (fixos),1.0,0.0
+"2026-03-02,rotina eldorado / guaporé,0.0,""lata, frasco, plástico"",3.0,0.0"
+"2026-03-02,rotina eldorado / guaporé,8.0,""lona, encerado, plástico"",1.0,0.0"
+2026-03-02,rotina eldorado / guaporé,2.0,garrafas retornáveis,10.0,0.0
+2026-03-03,rotina eldorado,7.0,consumo animal,1.0,1.0
+"2026-03-03,rotina eldorado,3.0,""lata, frasco, plástico"",6.0,0.0"
+2026-03-04,rotina jd. américa/jd. europa / ind. castor injex,3.0,consumo animal,2.0,11.0
+2026-03-04,rotina jd. américa/jd. europa / ind. castor injex,0.0,vaso sanitário / cx. descarga,2.0,0.0
+2026-03-04,rotina jd. américa/jd. europa / ind. castor injex,2.0,outros (móveis),1.0,0.0
+2026-03-04,rotina jd. américa/jd. europa / ind. castor injex,1.0,ralo externo,1.0,0.0
+2026-03-05,rotina ouro fino / carolina,3.0,depósito p/ horticultura (fixo),1.0,9.0
+2026-03-05,rotina ouro fino / carolina,0.0,vaso de planta na água,3.0,0.0
+2026-03-05,rotina ouro fino / carolina,8.0,consumo animal,1.0,0.0
+2026-03-07,bloqueio parque minas gerais,3.0,balde/regador,4.0,3.0
+"2026-03-07,bloqueio parque minas gerais,0.0,""lata, frasco, plástico"",1.0,0.0"
+"2026-03-07,bloqueio parque minas gerais,0.0,""lata, frasco, plástico"",0.0,0.0"
+"2026-03-16,rotina centro,8.0,""lona, encerado, plástico"",1.0,7.0"
+2026-03-16,rotina centro,2.0,balde/regador,1.0,0.0
+2026-03-16,rotina centro,2.0,outros (móveis),2.0,0.0
+"2026-03-16,rotina centro,1.0,""lata, frasco, plástico"",3.0,0.0"
+2026-03-17,rotina centro,0.0,não informado,0.0,4.0
+2026-03-17,rotina centro,7.0,pneu,2.0,0.0
+2026-03-17,rotina centro,1.0,não ligado à rede (depósito não,0.0,0.0
+2026-03-17,rotina centro,94.0,elevado),1.0,0.0
+2026-03-19,rotina centro,8.0,prato/pingadeira,2.0,13.0
+"2026-03-19,rotina centro,3.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-03-19,rotina centro,0.0,vaso de planta na água,1.0,0.0
+2026-03-19,rotina centro,2.0,pneu,8.0,0.0
+2026-03-20,rotina vila perino,0.0,barco,1.0,11.0
+2026-03-20,rotina vila perino,0.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-03-20,rotina vila perino,2.0,outros (móveis),2.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,4.0,piscina desmontável,1.0,16.0
+"2026-03-21,bloqueio orlando quagliato / recanto / são francisco,0.0,""lata, frasco, plástico"",2.0,0.0"
+"2026-03-21,bloqueio orlando quagliato / recanto / são francisco,0.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,3.0,pneu,1.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,0.0,consumo animal,2.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,31.0,prato/pingadeira,1.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,0.0,balde/regador,1.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,1.0,balde/regador,1.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,4.0,outros (fixos),1.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,2.0,vaso de planta na água,2.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,7.0,prato/pingadeira,5.0,0.0
+2026-03-21,bloqueio orlando quagliato / recanto / são francisco,0.0,consumo animal,1.0,0.0
+"2026-03-23,rotina centro,5.0,""lata, frasco, plástico utilizáveis"",1.0,13.0"
+2026-03-23,rotina centro,0.0,balde/regador,1.0,0.0
+2026-03-23,rotina centro,7.0,piscina,1.0,0.0
+"2026-03-23,rotina centro,0.0,""lata, frasco, plástico"",5.0,0.0"
+2026-03-23,rotina centro,8.0,consumo animal,1.0,0.0
+"2026-03-23,rotina centro,1.0,""lata, frasco, plástico"",2.0,0.0"
+2026-03-23,rotina centro,2.0,outros (passíveis de remoção),2.0,0.0
+2026-03-24,rotina centro / boa esperança / vila moraes,14.0,vasos de planta (diversos),1.0,9.0
+2026-03-24,rotina centro / boa esperança / vila moraes,0.0,prato/pingadeira,1.0,0.0
+"2026-03-24,rotina centro / boa esperança / vila moraes,2.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-03-24,rotina centro / boa esperança / vila moraes,3.0,balde/regador,3.0,0.0
+2026-03-24,rotina centro / boa esperança / vila moraes,3.0,ralo externo,1.0,0.0
+"2026-03-24,rotina centro / boa esperança / vila moraes,0.0,""lona, encerado, plástico"",6.0,0.0"
+2026-03-24,rotina centro / boa esperança / vila moraes,0.0,vaso de planta na água,2.0,0.0
+2026-03-25,rotina centro / gabriela,8.0,entulho de construção,1.0,7.0
+2026-03-25,rotina centro / gabriela,3.0,pneu,1.0,0.0
+2026-03-25,rotina centro / gabriela,0.0,balde/regador,1.0,0.0
+2026-03-25,rotina centro / gabriela,3.0,vaso de planta na água,1.0,0.0
+2026-03-25,rotina centro / gabriela,7.0,não ligado à rede (depósito não,0.0,0.0
+2026-03-26,rotina centro,4.0,elevado),1.0,7.0
+2026-03-26,rotina centro,0.0,prato/pingadeira,2.0,0.0
+2026-03-26,rotina centro,0.0,consumo animal,1.0,0.0
+2026-03-26,rotina centro,0.0,depósito p/ construção (fixo),1.0,0.0
+2026-03-26,rotina centro,8.0,prato/pingadeira,1.0,0.0
+"2026-03-27,rotina centro,2.0,""lata, frasco, plástico utilizáveis"",4.0,24.0"
+2026-03-27,rotina centro,0.0,pneu,1.0,0.0
+2026-03-27,rotina centro,7.0,vaso de planta na água,3.0,0.0
+2026-03-27,rotina centro,9.0,prato/pingadeira,1.0,0.0
+2026-03-27,rotina centro,3.0,consumo animal,3.0,0.0
+"2026-03-27,rotina centro,2.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-03-28,rotina intensificação (sábado),0.0,balde/regador,1.0,17.0
+2026-03-28,rotina intensificação (sábado),0.0,vaso sanitário / cx. descarga,1.0,0.0
+"2026-03-28,rotina intensificação (sábado),8.0,""lata, frasco, plástico"",8.0,0.0"
+2026-03-28,rotina intensificação (sábado),8.0,garrafa descartável,5.0,0.0
+2026-03-28,rotina intensificação (sábado),2.0,oco de árvore e bambu,1.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,8.0,bandeja geladeira / ar cond.,3.0,11.0
+2026-03-30,rotina barra funda / vila cristoni,7.0,balde/regador,1.0,0.0
+"2026-03-30,rotina barra funda / vila cristoni,0.0,""lona, encerado, plástico"",1.0,0.0"
+"2026-03-30,rotina barra funda / vila cristoni,8.0,""lata, frasco, plástico"",4.0,0.0"
+2026-03-30,rotina barra funda / vila cristoni,5.0,não informado,0.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,2.0,não informado,0.0,0.0
+"2026-03-30,rotina barra funda / vila cristoni,1.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-03-30,rotina barra funda / vila cristoni,2.0,prato/pingadeira,4.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,84.0,não ligado à rede (depósito não,0.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,7.0,elevado),1.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,16.0,material de construção,2.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,4.0,não ligado à rede (depósito não,4.0,0.0
+2026-03-30,rotina barra funda / vila cristoni,0.0,elevado),2.0,0.0
+2026-03-31,rotina vila cristoni / centro,5.0,vaso de planta na água,1.0,0.0
+"2026-03-31,rotina vila cristoni / centro,3.0,""lata, frasco, plástico"",2.0,0.0"
+2026-03-31,rotina vila cristoni / centro,0.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-03-31,rotina vila cristoni / centro,2.0,balde/regador,1.0,0.0
+2026-03-31,rotina vila cristoni / centro,0.0,consumo animal,0.0,0.0
+2026-04-01,rotina vila sandano,14.0,balde/regador,1.0,4.0
+"2026-04-01,rotina vila sandano,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-04-01,rotina vila sandano,34.0,peças / sucatas,1.0,0.0
+2026-04-01,rotina vila sandano,36.0,barco,1.0,0.0
+2026-04-01,rotina vila sandano,5.0,vaso de planta na água,1.0,0.0
+2026-04-01,rotina vila kennedy,14.0,balde/regador,1.0,4.0
+"2026-04-01,rotina vila kennedy,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-04-01,rotina vila kennedy,34.0,peças/sucatas,1.0,0.0
+"2026-04-01,rotina vila kennedy,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-04-01,rotina vila perino,8.0,consumo animal,1.0,3.0
+2026-04-01,rotina vila perino,4.0,não ligado à rede (depósito não elevado),1.0,0.0
+2026-04-01,rotina vila perino,8.0,consumo animal,1.0,0.0
+2026-04-01,rotina vila perino,27.0,outros (fixos),1.0,0.0
+"2026-04-02,bloqueio jd. santos dumont,30.0,""lata, frasco, plástico"",2.0,6.0"
+"2026-04-02,bloqueio jd. santos dumont,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-04-02,bloqueio jd. santos dumont,34.0,peças/sucatas,1.0,0.0
+"2026-04-02,bloqueio jd. santos dumont,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-04-02,bloqueio jd. santos dumont,8.0,consumo animal,1.0,0.0
+2026-04-06,rotina jd. ouro fino,4.0,não ligado à rede (depósito não elevado),1.0,5.0
+2026-04-06,rotina jd. ouro fino,34.0,peças/sucatas,2.0,0.0
+2026-04-06,rotina jd. ouro fino,7.0,prato/pingadeira,1.0,0.0
+"2026-04-06,rotina jd. ouro fino,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+"2026-04-07,rotina jd. ouro fino,32.0,""lona, encerado, plástico"",1.0,9.0"
+2026-04-07,rotina jd. ouro fino,34.0,peças/sucatas,3.0,0.0
+"2026-04-07,rotina jd. ouro fino,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-04-09,rotina cemitério (vila marcante),6.0,vasos de planta (diversos),12.0,12.0
+2026-04-10,rotina jd. eldorado,7.0,prato/pingadeira,3.0,12.0
+2026-04-10,rotina jd. eldorado,8.0,consumo animal,3.0,0.0
+2026-04-10,rotina jd. eldorado,28.0,pneu,1.0,0.0
+2026-04-10,rotina jd. eldorado,5.0,vaso de planta na água,2.0,0.0
+"2026-04-10,rotina jd. eldorado,12.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+2026-04-10,rotina jd. eldorado,14.0,balde/regador,1.0,0.0
+"2026-04-10,rotina jd. eldorado,30.0,""lata, frasco, plástico"",14.0,0.0"
+2026-04-11,bloqueio centro (4 quadras),28.0,pneu,1.0,16.0
+2026-04-11,bloqueio centro (4 quadras),7.0,prato/pingadeira,1.0,0.0
+2026-04-13,bloqueio bairro centro,4.0,não ligado à rede (depósito não elevado),4.0,18.0
+2026-04-13,bloqueio bairro centro,5.0,vaso de planta na água,3.0,0.0
+2026-04-13,bloqueio bairro centro,7.0,prato/pingadeira,2.0,0.0
+"2026-04-13,bloqueio bairro centro,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-04-13,bloqueio bairro centro,14.0,balde / regador,3.0,0.0
+2026-04-13,bloqueio bairro centro,27.0,outros (fixos),2.0,0.0
+"2026-04-13,bloqueio bairro centro,30.0,""lata, frasco, plástico"",3.0,0.0"
+2026-04-14,rotina parque minas gerais,4.0,não ligado à rede (depósito não elevado),2.0,18.0
+2026-04-14,rotina parque minas gerais,5.0,vaso de planta na água,5.0,0.0
+"2026-04-14,rotina parque minas gerais,12.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+2026-04-14,rotina parque minas gerais,14.0,balde/regador,4.0,0.0
+2026-04-14,rotina parque minas gerais,22.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-04-14,rotina parque minas gerais,23.0,piscina,1.0,0.0
+"2026-04-14,rotina parque minas gerais,30.0,""lata, frasco, plástico"",1.0,0.0"
+"2026-04-14,rotina parque minas gerais,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-04-14,rotina parque minas gerais,33.0,entulho de construção,1.0,0.0
+2026-04-14,rotina vila são luiz,1.0,ligado à rede (depósito elevado),1.0,7.0
+2026-04-14,rotina vila são luiz,5.0,vaso de planta na água,1.0,0.0
+2026-04-14,rotina vila são luiz,6.0,vasos de planta (diversos),1.0,0.0
+2026-04-14,rotina vila são luiz,8.0,consumo animal,1.0,0.0
+2026-04-14,rotina vila são luiz,14.0,balde/regador,1.0,0.0
+2026-04-14,rotina vila são luiz,28.0,pneu,1.0,0.0
+2026-04-14,rotina vila são luiz,37.0,outros (passíveis de remoção),1.0,0.0
+2026-04-15,rotina parque minas gerais,4.0,não ligado à rede (depósito não elevado),1.0,1.0
+"2026-04-15,rotina parque minas gerais,32.0,""lona, encerado, plástico"",1.0,0.0"
+"2026-04-15,rotina parque minas gerais,30.0,""lata, frasco, plástico"",7.0,0.0"
+2026-04-15,rotina vila nova sá,22.0,vaso sanitário / cx. descarga,4.0,16.0
+2026-04-15,rotina vila nova sá,13.0,garrafas retornáveis,2.0,0.0
+"2026-04-15,rotina vila nova sá,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-04-15,rotina vila nova sá,5.0,vaso de planta na água,1.0,0.0
+2026-04-16,rotina vila matilde / jd. anchieta / vila recreio,4.0,não ligado à rede (depósito não elevado),3.0,15.0
+2026-04-16,rotina vila matilde / jd. anchieta / vila recreio,5.0,vaso de planta na água,1.0,0.0
+2026-04-16,rotina vila matilde / jd. anchieta / vila recreio,7.0,prato/pingadeira,5.0,0.0
+"2026-04-16,rotina vila matilde / jd. anchieta / vila recreio,30.0,""lata, frasco, plástico"",4.0,0.0"
+"2026-04-16,rotina vila matilde / jd. anchieta / vila recreio,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-04-16,rotina vila matilde / jd. anchieta / vila recreio,19.0,ralo externo,1.0,0.0
+2026-04-17,rotina vila nova sá / jd. flórida,7.0,prato/pingadeira,1.0,5.0
+2026-04-17,rotina vila nova sá / jd. flórida,8.0,consumo animal,1.0,0.0
+2026-04-17,rotina vila nova sá / jd. flórida,11.0,piscina desmontável,1.0,0.0
+2026-04-17,rotina vila nova sá / jd. flórida,28.0,pneu,2.0,0.0
+"2026-04-17,rotina vila nova sá / jd. flórida,30.0,""lata, frasco, plástico"",1.0,0.0"
+"2026-04-17,rotina jd. anchieta / parque minas gerais,32.0,""lona, encerado, plástico"",1.0,5.0"
+2026-04-17,rotina jd. anchieta / parque minas gerais,13.0,garrafas retornáveis,2.0,0.0
+2026-04-17,rotina jd. anchieta / parque minas gerais,8.0,consumo animal,1.0,0.0
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,4.0,não ligado à rede (depósito não elevado),7.0,23.0
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,5.0,vaso de planta na água,3.0,0.0
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,7.0,prato/pingadeira,5.0,0.0
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,8.0,consumo animal,2.0,0.0
+"2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,14.0,balde/regador,1.0,0.0
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,27.0,outros (fixos),1.0,0.0
+2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,28.0,pneu,1.0,0.0
+"2026-04-17,rotina recreio / ns fátima / itamarati / santos dumont,30.0,""lata, frasco, plástico"",2.0,0.0"
+2026-04-23,rotina vila matilde / vila odilon / centro,4.0,não ligado à rede (depósito não elevado),1.0,10.0
+2026-04-23,rotina vila matilde / vila odilon / centro,14.0,balde/regador,1.0,0.0
+2026-04-24,rotina vila matilde,28.0,pneu,8.0,18.0
+2026-04-24,rotina vila matilde,5.0,vaso de planta na água,5.0,0.0
+2026-04-24,rotina vila matilde,7.0,prato/pingadeira,1.0,0.0
+2026-04-24,rotina vila matilde,8.0,consumo animal,2.0,0.0
+"2026-04-24,rotina vila matilde,12.0,""lata, frasco, plástico utilizáveis"",3.0,0.0"
+2026-04-24,rotina vila matilde,28.0,pneu,2.0,0.0
+"2026-04-24,rotina vila matilde,30.0,""lata, frasco, plástico"",3.0,0.0"
+"2026-04-24,rotina vila matilde,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-04-24,rotina vila matilde,37.0,outros (passíveis de remoção),1.0,0.0
+"2026-04-24,rotina centro,12.0,""lata, frasco, plástico utilizáveis"",2.0,5.0"
+2026-04-24,rotina centro,4.0,não ligado à rede (depósito não elevado),3.0,0.0
+2026-04-27,rotina vila matilde / jd. são carlos,4.0,não ligado à rede (depósito não elevado),1.0,17.0
+2026-04-27,rotina vila matilde / jd. são carlos,6.0,vasos de planta (diversos),2.0,0.0
+2026-04-27,rotina vila matilde / jd. são carlos,7.0,prato/pingadeira,4.0,0.0
+2026-04-27,rotina vila matilde / jd. são carlos,14.0,balde/regador,1.0,0.0
+"2026-04-27,rotina vila matilde / jd. são carlos,30.0,""lata, frasco, plástico"",9.0,0.0"
+2026-04-27,rotina vila matilde / jd. são carlos,6.0,vasos de planta (diversos),1.0,0.0
+2026-04-27,rotina itamaraty,8.0,consumo animal,2.0,12.0
+2026-04-27,rotina itamaraty,14.0,balde/regador,4.0,0.0
+2026-04-27,rotina itamaraty,16.0,material de construção,0.0,0.0
+2026-04-27,rotina itamaraty,28.0,pneu,1.0,0.0
+"2026-04-27,rotina itamaraty,30.0,""lata, frasco, plástico"",3.0,0.0"
+2026-04-28,rotina jd. josefina / jd. anchieta,8.0,consumo animal,1.0,3.0
+2026-04-28,rotina jd. josefina / jd. anchieta,22.0,vaso sanitário / cx. descarga,1.0,0.0
+"2026-04-28,rotina jd. josefina / jd. anchieta,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-04-28,rotina hbv/jd. industrial / são judas / paineiras,17.0,outros (móveis),1.0,10.0
+2026-04-28,rotina hbv/jd. industrial / são judas / paineiras,6.0,vasos de planta (diversos),3.0,0.0
+2026-04-28,rotina hbv/jd. industrial / são judas / paineiras,4.0,não ligado à rede (depósito não elevado),1.0,0.0
+2026-04-28,rotina hbv/jd. industrial / são judas / paineiras,28.0,pneu,2.0,0.0
+2026-04-28,rotina hbv/jd. industrial / são judas / paineiras,26.0,consumo animal (fixo),1.0,0.0
+"2026-04-28,rotina hbv/jd. industrial / são judas / paineiras,12.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+"2026-04-28,rotina vila nova sá / vila recreio,30.0,""lata, frasco, plástico"",1.0,7.0"
+2026-04-28,rotina vila nova sá / vila recreio,18.0,ralo interno,1.0,0.0
+2026-04-28,rotina vila nova sá / vila recreio,14.0,balde/regador,2.0,0.0
+2026-04-28,rotina vila nova sá / vila recreio,8.0,consumo animal,1.0,0.0
+2026-04-28,rotina vila nova sá / vila recreio,7.0,prato/pingadeira,2.0,0.0
+2026-04-29,rotina jd. matilde,14.0,balde/regador,1.0,12.0
+2026-04-29,rotina jd. matilde,28.0,pneu,11.0,0.0
+"2026-04-29,rotina jd. matilde,30.0,""lata, frasco, plástico"",5.0,0.0"
+2026-04-29,rotina vila recreio,27.0,outros (fixos),1.0,15.0
+2026-04-29,rotina vila recreio,19.0,ralo externo,5.0,0.0
+2026-04-29,rotina vila recreio,18.0,ralo interno,1.0,0.0
+2026-04-29,rotina vila recreio,7.0,prato/pingadeira,2.0,0.0
+2026-04-29,rotina vila recreio,5.0,vaso de planta na água,1.0,0.0
+"2026-04-29,rotina centro / ns fátima,30.0,""lata, frasco, plástico"",2.0,8.0"
+2026-04-29,rotina centro / ns fátima,28.0,pneu,1.0,0.0
+2026-04-29,rotina centro / ns fátima,4.0,não ligado à rede (depósito não elevado),5.0,0.0
+"2026-04-29,rotina centro / ns fátima,30.0,""lata, frasco, plástico"",2.0,0.0"
+2026-04-29,rotina centro / ns fátima,7.0,prato/pingadeira,1.0,0.0
+2026-04-29,rotina geral,14.0,balde/regador,1.0,7.0
+2026-04-29,rotina geral,28.0,pneu,2.0,0.0
+2026-04-29,rotina geral,11.0,piscina desmontável,1.0,0.0
+2026-04-29,rotina brilhante,15.0,bandeja geladeira / ar cond.,1.0,2.0
+2026-04-29,rotina brilhante,17.0,outros (móveis),0.0,0.0
+2026-04-29,rotina brilhante,5.0,vaso de planta na água,3.0,0.0
+2026-05-05,rotina jd. matilde / jd. são carlos / jd. anchieta,8.0,consumo animal,1.0,6.0
+2026-05-05,rotina jd. matilde / jd. são carlos / jd. anchieta,17.0,outros (móveis),1.0,0.0
+"2026-05-05,rotina jd. matilde / jd. são carlos / jd. anchieta,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-05-05,rotina jd. matilde / jd. são carlos / jd. anchieta,7.0,prato/pingadeira,1.0,0.0
+2026-05-05,rotina jd. matilde / jd. são carlos / jd. anchieta,8.0,consumo animal,1.0,0.0
+"2026-05-07,rotina jd. matilde / vila brasil,12.0,""lata, frasco, plástico utilizáveis"",1.0,4.0"
+"2026-05-07,rotina jd. matilde / vila brasil,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-05-07,rotina jd. matilde / vila brasil,4.0,não ligado à rede (depósito não elevado),2.0,0.0
+2026-05-07,rotina jd. matilde / vila brasil,5.0,vaso de planta na água,1.0,0.0
+2026-05-07,rotina jd. matilde / vila brasil,8.0,consumo animal,2.0,0.0
+2026-05-07,adl jd. matilde / vila brasil,14.0,balde/regador,1.0,10.0
+2026-05-07,adl jd. matilde / vila brasil,16.0,material de construção,1.0,0.0
+2026-05-07,adl jd. matilde / vila brasil,27.0,outros (fixos),1.0,0.0
+"2026-05-07,adl jd. matilde / vila brasil,30.0,""lata, frasco, plástico"",2.0,0.0"
+2026-05-07,adl jd. matilde / vila brasil,39.0,bromélias,1.0,0.0
+"2026-05-07,adl jd. matilde / vila brasil,32.0,""lona, encerado, plástico"",1.0,0.0"
+"2026-05-08,rotina vila cristoni,30.0,""lata, frasco, plástico"",2.0,6.0"
+2026-05-08,rotina vila cristoni,23.0,piscina,1.0,0.0
+2026-05-08,rotina vila cristoni,8.0,consumo animal,1.0,0.0
+"2026-05-08,rotina vila cristoni,32.0,""lona, encerado, plástico"",1.0,0.0"
+"2026-05-08,rotina vila cristoni,30.0,""lata, frasco, plástico"",3.0,0.0"
+2026-05-08,rotina vila cristoni,28.0,pneu,1.0,0.0
+2026-05-13,rotina vila marcante,22.0,vaso sanitário / cx. descarga,1.0,8.0
+2026-05-13,rotina vila marcante,14.0,balde/regador,1.0,0.0
+2026-05-13,rotina vila marcante,27.0,outros (fixos),1.0,0.0
+2026-05-13,rotina jd. flórida / santa fé iv,14.0,balde / regador,2.0,13.0
+2026-05-13,rotina jd. flórida / santa fé iv,28.0,pneu,1.0,0.0
+2026-05-13,rotina jd. flórida / santa fé iv,7.0,prato/pingadeira,5.0,0.0
+2026-05-13,rotina jd. flórida / santa fé iv,15.0,bandeja geladeira / ar cond.,1.0,0.0
+2026-05-13,rotina jd. flórida / santa fé iv,37.0,outros (passíveis de remoção),5.0,0.0
+2026-05-13,rotina jd. flórida / santa fé iv,5.0,vaso de planta na água,1.0,0.0
+"2026-05-13,rotina jd. flórida / santa fé iv,32.0,""lona, encerado, plástico"",1.0,0.0"
+"2026-05-13,rotina jd. flórida / santa fé iv,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-05-13,rotina jd. flórida / santa fé iv,7.0,prato / pingadeira,1.0,0.0
+2026-05-13,rotina vila vilar / vile de france / vila. musa,14.0,balde / regador,2.0,11.0
+"2026-05-13,rotina vila vilar / vile de france / vila. musa,30.0,""lata, frasco, plástico"",7.0,0.0"
+2026-05-13,rotina vila vilar / vile de france / vila. musa,33.0,entulho de construção,1.0,0.0
+"2026-05-13,rotina vila vilar / vile de france / vila. musa,12.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+2026-05-13,rotina vila vilar / vile de france / vila. musa,39.0,bromélias,1.0,0.0
+2026-05-13,rotina vila vilar / vile de france / vila. musa,8.0,consumo animal,2.0,0.0
+2026-05-13,rotina jd. são carlos / são silvestre / recanto,7.0,prato/pingadeira,2.0,14.0
+"2026-05-13,rotina jd. são carlos / são silvestre / recanto,30.0,""lata, frasco, plástico"",3.0,0.0"
+2026-05-13,rotina jd. são carlos / são silvestre / recanto,17.0,outros (móveis),1.0,0.0
+2026-05-13,rotina jd. são carlos / são silvestre / recanto,5.0,vaso de planta na água,1.0,0.0
+2026-05-13,rotina jd. são carlos / são silvestre / recanto,28.0,pneu,2.0,0.0
+2026-05-13,rotina jd. são carlos / são silvestre / recanto,5.0,vaso de planta na água,2.0,0.0
+2026-05-13,rotina jd. são carlos / são silvestre / recanto,4.0,não ligado à rede (depósito não elevado),2.0,0.0
+"2026-05-13,rotina jd. são carlos / são silvestre / recanto,12.0,""lata, frasco, plástico utilizáveis"",3.0,0.0"
+2026-05-13,rotina jd. matilde / vila nova cristoni / santa fé ii,14.0,balde / regador,3.0,50.0
+2026-05-13,rotina jd. matilde / vila nova cristoni / santa fé ii,23.0,piscina,1.0,0.0
+2026-05-13,rotina jd. matilde / vila nova cristoni / santa fé ii,25.0,depósito p/ horticultura (fixo),3.0,0.0
+"2026-05-13,rotina jd. matilde / vila nova cristoni / santa fé ii,30.0,""lata, frasco, plástico"",20.0,0.0"
+"2026-05-13,rotina jd. matilde / vila nova cristoni / santa fé ii,32.0,""lona, encerado, plástico"",6.0,0.0"
+2026-05-13,rotina vila brasil / josefina / centro / paineiras / cristoni,4.0,não ligado à rede (depósito não elevado),2.0,10.0
+2026-05-13,rotina vila brasil / josefina / centro / paineiras / cristoni,14.0,balde/regador,2.0,0.0
+2026-05-13,rotina vila brasil / josefina / centro / paineiras / cristoni,19.0,ralo externo,1.0,0.0
+2026-05-13,rotina vila brasil / josefina / centro / paineiras / cristoni,22.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-05-13,rotina vila brasil / josefina / centro / paineiras / cristoni,34.0,peças/sucatas,4.0,0.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,4.0,não ligado à rede (depósito não elevado),4.0,27.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,5.0,vaso de planta na água,5.0,0.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,6.0,vasos de planta (diversos),1.0,0.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,8.0,consumo animal,2.0,0.0
+"2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,13.0,garrafas retornáveis,3.0,0.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,14.0,balde / regador,1.0,0.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,17.0,outros (móveis),0.0,0.0
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,23.0,piscina,2.0,0.0
+"2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,30.0,""lata, frasco, plástico"",2.0,0.0"
+"2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,32.0,""lona, encerado, plástico"",0.0,0.0"
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,6.0,vasos de planta (diversos),3.0,0.0
+"2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,12.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+2026-05-13,rotina vila musa / santos dumont / itamarati / vile de france,14.0,balde/regador,2.0,0.0
+2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,22.0,vaso sanitário / cx. descarga,1.0,20.0
+2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,28.0,pneu,4.0,0.0
+"2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,30.0,""lata, frasco, plástico"",7.0,0.0"
+"2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,32.0,""lona, encerado, plástico"",1.0,0.0"
+"2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,32.0,""lona, encerado, plástico"",3.0,0.0"
+2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,13.0,garrafas retornáveis,27.0,0.0
+"2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,12.0,""lata, frasco, plástico utilizáveis"",7.0,0.0"
+2026-06-01,rotina jd. matilde / jd. nazareth / jd. são silvestre,8.0,consumo animal,1.0,0.0
+2026-06-03,rotina vendramini / margarina,5.0,vaso de planta na água,3.0,44.0
+2026-06-03,rotina vendramini / margarina,7.0,prato/pingadeira,1.0,0.0
+2026-06-03,rotina vendramini / margarina,6.0,vasos de planta (diversos),1.0,0.0
+"2026-06-03,rotina vendramini / margarina,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-06-03,rotina vendramini / margarina,7.0,prato/pingadeira,5.0,0.0
+2026-06-03,rotina vendramini / margarina,14.0,balde/regador,4.0,0.0
+2026-06-03,rotina vendramini / margarina,17.0,outros (móveis),3.0,0.0
+2026-06-03,rotina jd. europa / vila kennedy / vila brasil,23.0,piscina,1.0,22.0
+2026-06-03,rotina jd. europa / vila kennedy / vila brasil,28.0,pneu,3.0,0.0
+"2026-06-03,rotina jd. europa / vila kennedy / vila brasil,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-06-03,rotina jd. europa / vila kennedy / vila brasil,34.0,peças/sucatas,1.0,0.0
+2026-06-03,rotina jd. europa / vila kennedy / vila brasil,39.0,bromélias,4.0,0.0
+2026-06-03,rotina jd. europa / vila kennedy / vila brasil,14.0,balde/regador,2.0,0.0
+2026-06-08,rotina jd. n. sra. de fátima,33.0,entulho de construção,1.0,3.0
+2026-06-08,rotina jd. n. sra. de fátima,4.0,não ligado à rede (depósito não elevado),1.0,0.0
+2026-06-08,rotina jd. n. sra. de fátima,6.0,vasos de planta (diversos),3.0,0.0
+2026-06-08,rotina jd. n. sra. de fátima,7.0,prato/pingadeira,4.0,0.0
+2026-06-08,rotina jd. n. sra. de fátima,8.0,consumo animal,3.0,0.0
+2026-06-09,rotina jd. são carlos / jd. nazareth,14.0,balde/regador,4.0,24.0
+2026-06-09,rotina jd. são carlos / jd. nazareth,28.0,pneu,6.0,0.0
+"2026-06-09,rotina jd. são carlos / jd. nazareth,30.0,""lata, frasco, plástico"",1.0,0.0"
+"2026-06-09,rotina jd. são carlos / jd. nazareth,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-06-09,rotina jd. são carlos / jd. nazareth,34.0,peças/sucatas,1.0,0.0
+2026-06-09,rotina jd. paris / ns fátima / santos dumont,5.0,vaso de planta na água,5.0,13.0
+2026-06-09,rotina jd. paris / ns fátima / santos dumont,25.0,depósito p/ horticultura,1.0,0.0
+2026-06-09,rotina jd. paris / ns fátima / santos dumont,11.0,piscina desmontável,1.0,0.0
+2026-06-09,rotina jd. paris / ns fátima / santos dumont,13.0,garrafas retornáveis,1.0,0.0
+2026-06-09,rotina jd. paris / ns fátima / santos dumont,17.0,outros (móveis),1.0,0.0
+2026-06-09,rotina jd. paris / ns fátima / santos dumont,28.0,pneu,2.0,0.0
+"2026-06-09,rotina jd. paris / ns fátima / santos dumont,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-06-10,rotina vila boa esperança,7.0,prato/pingadeira,3.0,3.0
+2026-06-10,rotina vila boa esperança,27.0,outros (fixos),1.0,0.0
+2026-06-10,rotina brilhante / parque minas gerais,4.0,não ligado à rede (depósito não elevado),2.0,5.0
+2026-06-10,rotina brilhante / parque minas gerais,23.0,piscina,1.0,0.0
+2026-06-10,rotina brilhante / parque minas gerais,5.0,vaso de planta na água,1.0,0.0
+2026-06-12,rotina jd. paris / ns fátima / choso misato,14.0,balde/regador,2.0,3.0
+"2026-06-12,rotina jd. paris / ns fátima / choso misato,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-06-12,rotina jd. paris / ns fátima / choso misato,5.0,vaso de planta na água,2.0,0.0
+2026-06-12,rotina jd. paris / ns fátima / choso misato,7.0,prato/pingadeira,1.0,0.0
+2026-06-15,rotina vila kennedy / jd. são silvestre,14.0,balde/regador,1.0,6.0
+"2026-06-15,rotina vila kennedy / jd. são silvestre,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-06-15,rotina vila kennedy / jd. são silvestre,39.0,bromélias,1.0,0.0
+2026-06-15,rotina vila kennedy / jd. são silvestre,4.0,não ligado à rede (depósito não elevado),1.0,0.0
+2026-06-15,rotina vila kennedy / jd. são silvestre,5.0,vaso de planta na água,1.0,0.0
+2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,28.0,pneu,2.0,15.0
+"2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,12.0,""lata, frasco, plástico utilizáveis"",7.0,0.0"
+"2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,27.0,outros (fixos),1.0,0.0
+2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,36.0,barco,1.0,0.0
+2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,19.0,ralo externo,1.0,0.0
+2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,5.0,vaso de planta na água,1.0,0.0
+2026-06-16,rotina vandelena / recanto 3/ kennedy / pmg,6.0,vasos de planta (diversos),1.0,0.0
+2026-06-16,rotina centro / santos dumont / choso misato,7.0,prato/pingadeira,2.0,9.0
+2026-06-16,rotina centro / santos dumont / choso misato,14.0,balde/regador,4.0,0.0
+2026-06-16,rotina centro / santos dumont / choso misato,33.0,entulho de construção,1.0,0.0
+2026-06-16,rotina ville de france / centro / santos dumont,4.0,não ligado à rede (depósito não elevado),1.0,6.0
+2026-06-16,rotina ville de france / centro / santos dumont,5.0,vaso de planta na água,1.0,0.0
+"2026-06-16,rotina ville de france / centro / santos dumont,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-06-16,rotina ville de france / centro / santos dumont,14.0,balde/regador,3.0,0.0
+2026-06-16,rotina ville de france / centro / santos dumont,8.0,consumo animal,2.0,0.0
+2026-06-16,rotina ville de france / centro / santos dumont,24.0,depósito p/ construção,2.0,0.0
+"2026-06-22,rotina jd. são carlos / jd. furlan / vila brasil,12.0,""lata, frasco, plástico utilizáveis"",1.0,23.0"
+2026-06-22,rotina jd. são carlos / jd. furlan / vila brasil,14.0,balde/regador,5.0,0.0
+2026-06-22,rotina jd. são carlos / jd. furlan / vila brasil,17.0,outros (móveis),5.0,0.0
+2026-06-22,rotina jd. são carlos / jd. furlan / vila brasil,23.0,piscina,1.0,0.0
+2026-06-23,rotina vila sandano,28.0,pneu,3.0,2.0
+"2026-06-23,rotina vila sandano,30.0,""lata, frasco, plástico"",4.0,0.0"
+"2026-06-23,rotina vila sandano,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-06-23,rotina choso misato / centro,37.0,outros (passíveis de remoção),1.0,5.0
+2026-06-23,rotina choso misato / centro,22.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-06-23,rotina choso misato / centro,17.0,outros (móveis),3.0,0.0
+2026-06-23,rotina choso misato / centro,14.0,balde/regador,1.0,0.0
+2026-06-23,rotina centro / vila musa,4.0,não ligado à rede (depósito não elevado),2.0,6.0
+2026-06-23,rotina centro / vila musa,8.0,consumo animal,1.0,0.0
+"2026-06-23,rotina centro / vila musa,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-06-23,rotina centro / vila musa,28.0,pneu,2.0,0.0
+"2026-06-23,rotina centro / vila musa,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-06-23,rotina centro / vila musa,14.0,balde/regador,1.0,0.0
+2026-07-01,rotina vila brasil / vila boa esperança,27.0,outros (fixos),1.0,6.0
+2026-07-01,rotina vila brasil / vila boa esperança,28.0,pneu,3.0,0.0
+2026-07-01,rotina vila brasil / vila boa esperança,5.0,vaso de planta na água,1.0,0.0
+2026-07-01,rotina vila musa / santos dumont,8.0,consumo animal,1.0,6.0
+2026-07-01,rotina vila musa / santos dumont,14.0,balde/regador,3.0,0.0
+2026-07-01,rotina vila musa / santos dumont,28.0,pneu,1.0,0.0
+2026-07-01,rotina vila musa / santos dumont,7.0,prato/pingadeira,1.0,0.0
+2026-07-01,rotina vila musa / santos dumont,11.0,piscina desmontável,1.0,0.0
+"2026-07-01,rotina vila musa / santos dumont,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-07-01,rotina vila musa / santos dumont,28.0,pneu,2.0,0.0
+"2026-07-02,rotina vila vilar / orlando quagliato,30.0,""lata, frasco, plástico"",6.0,18.0"
+2026-07-02,rotina vila vilar / orlando quagliato,34.0,peças / sucatas,3.0,0.0
+2026-07-02,rotina vila vilar / orlando quagliato,36.0,barco,2.0,0.0
+2026-07-02,rotina vila vilar / orlando quagliato,39.0,bromelias,2.0,0.0
+2026-07-02,rotina vila vilar / orlando quagliato,36.0,barco,1.0,0.0
+2026-07-02,rotina vila vilar / orlando quagliato,22.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-07-02,rotina vila vilar / orlando quagliato,19.0,ralo externo,1.0,0.0
+2026-07-02,rotina vila vilar / orlando quagliato,13.0,garrafas retornáveis,6.0,0.0
+"2026-07-02,rotina vila vilar / orlando quagliato,12.0,""lata, frasco, plástico utilizáveis"",6.0,0.0"
+2026-07-03,rotina área 1 e área 2,28.0,pneu,2.0,29.0
+2026-07-03,rotina área 1 e área 2,5.0,vaso de planta na água,0.0,0.0
+"2026-07-03,rotina área 1 e área 2,32.0,""lona, encerado, plástico"",2.0,0.0"
+"2026-07-03,rotina área 1 e área 2,30.0,""lata, frasco, plástico"",6.0,0.0"
+2026-07-03,rotina área 1 e área 2,14.0,balde/regador,1.0,0.0
+2026-07-03,rotina área 1 e área 2,4.0,não ligado à rede (depósito não elevado),1.0,0.0
+"2026-07-03,rotina área 1 e área 2,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-07-03,rotina área 1 e área 2,34.0,peças / sucatas,2.0,0.0
+"2026-07-06,rotina área 1,12.0,""lata, frasco, plástico utilizáveis"",5.0,15.0"
+"2026-07-06,rotina área 1,32.0,""lona, encerado, plástico"",6.0,0.0"
+2026-07-06,rotina área 1,27.0,outros (fixos),1.0,0.0
+2026-07-06,rotina vila operária / jd. europa / jd. são silvestre,4.0,não ligado à rede (depósito não elevado),1.0,8.0
+2026-07-06,rotina vila operária / jd. europa / jd. são silvestre,8.0,consumo animal,1.0,0.0
+2026-07-06,rotina vila operária / jd. europa / jd. são silvestre,19.0,ralo externo,1.0,0.0
+"2026-07-06,rotina vila operária / jd. europa / jd. são silvestre,30.0,""lata, frasco, plástico"",5.0,0.0"
+2026-07-06,rotina vila musa / santos dumont,5.0,vaso de planta na água,7.0,11.0
+2026-07-06,rotina vila musa / santos dumont,6.0,vasos de planta (diversos),1.0,0.0
+2026-07-06,rotina vila musa / santos dumont,7.0,prato/pingadeira,2.0,0.0
+"2026-07-06,rotina vila musa / santos dumont,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-07-06,rotina vila musa / santos dumont,28.0,pneu,1.0,0.0
+"2026-07-15,adl área 1,30.0,""lata, frasco, plástico"",2.0,3.0"
+2026-07-15,adl área 2,4.0,não ligado à rede (depósito não elevado),1.0,2.0
+2026-07-15,adl área 2,14.0,balde/regador,1.0,0.0
+"2026-07-15,adl área 2,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-07-15,adl área 3,28.0,pneu,1.0,3.0
+"2026-07-15,adl área 3,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-07-21,adl área 1,28.0,pneu,1.0,1.0
+2026-07-21,rotina jd. europa / recanto dos pássaros,7.0,prato/pingadeira,1.0,7.0
+"2026-07-21,rotina jd. europa / recanto dos pássaros,32.0,""lona, encerado, plástico"",6.0,0.0"
+2026-07-22,adl área 3,4.0,não ligado à rede (depósito não elevado),1.0,3.0
+2026-07-22,adl área 3,28.0,pneu,1.0,0.0
+2026-07-22,adl área 3,34.0,peças / sucatas,1.0,0.0
+2026-07-22,rotina jd. estoril / rotina jd. europa / jd. estoril,7.0,prato/pingadeira,1.0,1.0
+"2026-07-22,rotina jd. estoril / rotina jd. europa / jd. estoril,30.0,""lata, frasco, plástico"",2.0,2.0"
+2026-07-23,rotina vila adalgisa,5.0,vaso de planta na água,1.0,1.0
+"2026-07-23,rotina vila adalgisa,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-07-28,rotina vila perino,28.0,pneu,1.0,7.0
+2026-07-28,rotina vila perino,7.0,prato/pingadeira,5.0,0.0
+"2026-07-28,rotina vila perino,12.0,""lata, frasco, plástico utilizáveis"",2.0,0.0"
+2026-07-28,rotina vila perino,17.0,outros (móveis),2.0,0.0
+2026-07-30,rotina cdhu / recanto dos pássaros,22.0,vaso sanitário / cx. descarga,1.0,13.0
+2026-07-30,rotina cdhu / recanto dos pássaros,28.0,pneu,2.0,0.0
+"2026-07-30,rotina cdhu / recanto dos pássaros,32.0,""lona, encerado, plástico"",6.0,0.0"
+"2026-07-30,rotina cdhu / recanto dos pássaros,30.0,""lata, frasco, plástico"",1.0,0.0"
+2026-07-30,rotina santa fé ii / vila perino / jd. das paineiras,28.0,pneu,2.0,9.0
+2026-07-30,rotina santa fé ii / vila perino / jd. das paineiras,17.0,outros (móveis),1.0,0.0
+2026-07-30,rotina santa fé ii / vila perino / jd. das paineiras,7.0,prato/pingadeira,5.0,0.0
+2026-07-30,rotina santa fé ii / vila perino / jd. das paineiras,7.0,prato/pingadeira,1.0,0.0
+"2026-08-04,bloqueio jd. matilde / vila perino,12.0,""lata, frasco, plástico utilizáveis"",1.0,4.0"
+2026-08-04,bloqueio jd. matilde / vila perino,22.0,vaso sanitário / cx. descarga,1.0,0.0
+"2026-08-04,bloqueio jd. matilde / vila perino,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-08-12,bloqueio bandeirantes / santa felicidade,24.0,depósito p/ construção (fixo),1.0,1.0
+2026-08-12,bloqueio bandeirantes / santa felicidade,6.0,vasos de planta (diversos),3.0,0.0
+2026-08-12,bloqueio bandeirantes / santa felicidade,14.0,balde/regador,1.0,0.0
+"2026-08-12,rotina pmg / vila margarida / anchieta,32.0,""lona, encerado, plástico"",1.0,7.0"
+"2026-08-12,rotina pmg / vila margarida / anchieta,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-08-12,rotina pmg / vila margarida / anchieta,4.0,não ligado à rede (depósito nào elevado),1.0,0.0
+2026-08-12,rotina pmg / vila margarida / anchieta,4.0,não ligado à rede (depósito nào,6.0,0.0
+2026-08-12,rotina pmg / vila margarida / anchieta,16.0,elevado),1.0,0.0
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,28.0,material de construção,1.0,16.0
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,30.0,pneu,3.0,0.0
+"2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,32.0,""lata, frasco, plástico"",2.0,0.0"
+"2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,38.0,""lona, encerado, plástico"",0.0,0.0"
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,23.0,oco de árvore e bambu,3.0,0.0
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,0.0,não informado,1.0,0.0
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,14.0,piscina,1.0,0.0
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,0.0,balde/regador,0.0,0.0
+2026-08-12,rotina vila perino / quagliato / cdhu / vila adalgisa / são silvestre,28.0,não informado,1.0,0.0
+2026-08-17,rotina santa fé / josefina / brilhante / pmg,12.0,pneu,7.0,13.0
+"2026-08-17,rotina santa fé / josefina / brilhante / pmg,5.0,""lata, frasco, plástico utilizáveis"",0.0,0.0"
+2026-08-17,rotina santa fé / josefina / brilhante / pmg,37.0,vaso de planta na água,2.0,0.0
+2026-08-17,rotina santa fé / josefina / brilhante / pmg,0.0,outros (passíveis de remoção),1.0,0.0
+2026-08-17,rotina santa fé / josefina / brilhante / pmg,4.0,não ligado à rede (depósito não,1.0,0.0
+2026-08-19,rotina vila sandano / vila adalgisa,7.0,elevado),1.0,6.0
+2026-08-19,rotina vila sandano / vila adalgisa,27.0,prato/pingadeira,3.0,0.0
+2026-08-19,rotina vila sandano / vila adalgisa,34.0,outros (fixos),0.0,0.0
+2026-08-19,rotina vila sandano / vila adalgisa,7.0,peças/sucatas,1.0,0.0
+2026-08-19,rotina vila sandano / vila adalgisa,14.0,prato/pingadeira,4.0,0.0
+2026-08-19,rotina vila sandano / vila adalgisa,0.0,não informado,2.0,0.0
+2026-08-19,rotina vila sandano / vila adalgisa,23.0,balde/regador,1.0,0.0
+2026-08-20,rotina jd. matilde / jd. ouro fino / são domingos,27.0,piscina,1.0,14.0
+2026-08-20,rotina jd. matilde / jd. ouro fino / são domingos,28.0,outros (fixos),2.0,0.0
+2026-08-20,rotina jd. matilde / jd. ouro fino / são domingos,30.0,pneu,0.0,0.0
+"2026-08-20,rotina jd. matilde / jd. ouro fino / são domingos,0.0,""lata, frasco, plástico"",1.0,0.0"
+"2026-08-20,rotina jd. matilde / jd. ouro fino / são domingos,32.0,""lona, encerado, plástico"",3.0,0.0"
+2026-08-21,rotina cdhu,22.0,vaso sanitário / cx. descarga,1.0,2.0
+2026-08-21,rotina cdhu,28.0,pneu,1.0,0.0
+2026-08-24,rotina jd. paineiras,13.0,garrafas retornáveis,1.0,1.0
+2026-08-24,rotina jd. paineiras,4.0,não ligado à rede (depósito não elevado),2.0,0.0
+"2026-08-24,rotina jd. paineiras,12.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-08-24,rotina jd. paineiras,19.0,ralo externo,1.0,0.0
+2026-08-25,rotina jd. matilde / jd. anchieta / vila boa esperança,22.0,vaso sanitário / cx. descarga,4.0,19.0
+2026-08-25,rotina jd. matilde / jd. anchieta / vila boa esperança,28.0,pneu,6.0,0.0
+"2026-08-25,rotina jd. matilde / jd. anchieta / vila boa esperança,30.0,""lata, frasco, plástico"",1.0,0.0"
+"2026-08-25,rotina jd. matilde / jd. anchieta / vila boa esperança,32.0,""lona, encerado, plástico"",1.0,0.0"
+2026-08-25,rotina jd. matilde / jd. anchieta / vila boa esperança,34.0,peças/sucatas,1.0,0.0
+2026-08-25,rotina jd. matilde / jd. anchieta / vila boa esperança,37.0,outros (passíveis de remoção),2.0,0.0
+2026-09-04,rotina cdhu,14.0,balde/regador,6.0,6.0
+2026-09-04,rotina cdhu,0.0,vaso de planta na água,1.0,0.0
+"2026-09-04,rotina cdhu,5.0,""lata, frasco, plástico utilizáveis"",1.0,0.0"
+2026-09-04,rotina cdhu,1.0,balde/regador,1.0,0.0
+2026-09-04,rotina cdhu,2.0,material de construção,5.0,0.0
+2026-09-09,rotina jd. anchieta / jd. matilde / vila perino,1.0,outros (móveis),1.0,38.0
+2026-09-09,rotina jd. anchieta / jd. matilde / vila perino,4.0,piscina,1.0,0.0
+2026-09-09,rotina jd. anchieta / jd. matilde / vila perino,1.0,pneu,10.0,0.0
+"2026-09-09,rotina jd. anchieta / jd. matilde / vila perino,6.0,""lata, frasco, plástico"",14.0,0.0"
+2026-09-09,rotina jd. anchieta / jd. matilde / vila perino,1.0,peças/sucatas,4.0,0.0
+2026-09-09,rotina jd. anchieta / jd. matilde / vila perino,7.0,consumo animal,1.0,0.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,2.0,vaso de planta na água,1.0,3.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,3.0,entulho de construção,1.0,0.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,2.0,não ligado à rede (depósito não,0.0,0.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,84.0,elevado),5.0,0.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,8.0,vaso de planta na água,2.0,0.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,9.0,consumo animal,3.0,0.0
+2026-09-09,rotina hbv/jd. américa / vila sandano,8.0,piscina desmontável,2.0,0.0
+"2026-09-09,rotina hbv/jd. américa / vila sandano,0.0,""lata, frasco, plástico utilizáveis"",3.0,0.0"
+2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,0.0,balde/regador,3.0,26.0
+2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,0.0,material de construção,1.0,0.0
+2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,0.0,pneu,1.0,0.0
+"2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,0.0,""lata, frasco, plástico"",2.0,0.0"
+"2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,3.0,""lona, encerado, plástico"",2.0,0.0"
+2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,0.0,peças/sucatas,2.0,0.0
+2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,1.0,vaso de planta na água,3.0,0.0
+2026-09-16,rotina jd. matilde / jd. américa / jd. josefina,6.0,consumo animal,2.0,0.0
+2026-09-16,rotina santa fé iv / moradas / itamarati / vila musa,2.0,balde/regador,1.0,8.0
+2026-09-16,rotina santa fé iv / moradas / itamarati / vila musa,8.0,pneu,0.0,0.0
+"2026-09-16,rotina santa fé iv / moradas / itamarati / vila musa,3.0,""lona, encerado, plástico"",1.0,0.0"
+2026-09-16,rotina santa fé iv / moradas / itamarati / vila musa,0.0,não ligado à rede (depósito não,0.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,94.0,elevado),2.0,37.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,0.0,vaso de planta na água,2.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,3.0,vasos de planta (diversos),1.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,6.0,prato/pingadeira,6.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,8.0,consumo animal,2.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,1.0,garrafas retornáveis,3.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,3.0,balde/regador,3.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,1.0,outros (móveis),3.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,4.0,vaso sanitário / cx. descarga,1.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,1.0,outros (fixos),2.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,7.0,pneu,4.0,0.0
+"2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,2.0,""lata, frasco, plástico"",3.0,0.0"
+"2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,2.0,""lona, encerado, plástico"",1.0,0.0"
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,2.0,peças/sucatas,3.0,0.0
+2026-09-22,rotina jd. matilde / jd. europa / jd. josefina,7.0,masseira,1.0,0.0
